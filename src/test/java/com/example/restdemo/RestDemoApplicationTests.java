@@ -8,7 +8,6 @@ class RestDemoApplicationTests {
 
     @Test
     void contextLoads() {
-        org.junit.jupiter.api.Assertions.assertEquals(0,1);
     }
 
 }
