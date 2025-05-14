@@ -5,7 +5,7 @@ public class HelloController {
 
     @org.springframework.web.bind.annotation.GetMapping("/hello")
     public String hello() {
-        return "Hello, Spring Boot!";
+        return "Hello, Enforce PR!";
     }
 
 }
